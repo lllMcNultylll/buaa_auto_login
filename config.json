@@ -1,0 +1,9 @@
+{
+  "username": "sy2530117",
+  "password": "nbx20020222",
+  "check_interval": 5,
+  "enable_logging": true,
+  "log_file": "auto_login.log",
+  "test_url": "http://www.baidu.com",
+  "wifi_ssid": "BUAA-WiFi"
+}

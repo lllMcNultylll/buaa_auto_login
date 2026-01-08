@@ -1,0 +1,9 @@
+{
+  "username": "your_username",
+  "password": "your_password",
+  "check_interval": 300,
+  "enable_logging": true,
+  "log_file": "auto_login.log",
+  "test_url": "http://www.baidu.com",
+  "wifi_ssid": "BUAA-WiFi"
+}
