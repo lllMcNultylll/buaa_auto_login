@@ -167,7 +167,7 @@ buaa_auto_login/
 
 ## 开发说明
 
-本项目基于以下开源项目：
+本项目基于：
 - https://github.com/luoboganer
 - https://coding.net/u/huxiaofan1223/p/jxnu_srun/git
 - https://blog.csdn.net/qq_41797946/article/details/89417722
